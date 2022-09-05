@@ -1,12 +1,9 @@
 name: Create SVG Icons
 
 on:
-  workflow_dispatch:
-    inputs:
-      type:
-        description: 'Type of version (`major`, `minor`, `patch`)'
-        required: true
-        default: 'patch'
+  schedule:
+    - cron: "2 3 * * *"
+    
 jobs:
   deploy:
     runs-on: ubuntu-latest
