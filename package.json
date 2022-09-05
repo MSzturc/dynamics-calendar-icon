@@ -1,0 +1,23 @@
+{
+  "name": "dynamics-calendar-icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSzturc/dynamics-calendar-icon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSzturc/dynamics-calendar-icon/issues"
+  },
+  "homepage": "https://github.com/MSzturc/dynamics-calendar-icon#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "mustache": "^4.2.0"
+  }
+}
