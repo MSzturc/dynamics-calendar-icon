@@ -1,4 +1,4 @@
-name: Release Docs
+name: Create SVG Icons
 
 on:
   workflow_dispatch:
