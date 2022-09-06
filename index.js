@@ -7,6 +7,8 @@ const templatePath = 'calendar.svg.mustache'
 const template = fs.readFileSync(templatePath, {encoding: 'utf-8'});
 
 const time = new Date();
+time.setDate(time.getDate()+1);
+
 const locale = "de-de";
 
 const DD   = time.getDate();
