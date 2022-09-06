@@ -2,7 +2,7 @@ name: Create SVG Icons
 
 on:
   schedule:
-    - cron: "2 3 * * *"
+    - cron: "2 0 * * *"
     
 jobs:
   deploy:
