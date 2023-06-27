@@ -28,7 +28,7 @@ viewBox="0 0 512 512">
   fill="#66757f" 
   font-family="monospace"
   font-size="256px"
-  style="text-anchor: middle">27</text>
+  style="text-anchor: middle">28</text>
 
 <text id="weekday"
   x="256" 
@@ -36,5 +36,5 @@ viewBox="0 0 512 512">
   fill="#66757f" 
   font-family="monospace"
   font-size="64px"
-  style="text-anchor: middle">Dienstag</text>
+  style="text-anchor: middle">Mittwoch</text>
 </svg>
